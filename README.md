@@ -1,4 +1,4 @@
-                                                                                # 🐱🐶 Image Classification Project
+ # 🐱🐶 Image Classification Project
 
 ### Cat vs Dog Classification using Transfer Learning & Explainable AI
 
